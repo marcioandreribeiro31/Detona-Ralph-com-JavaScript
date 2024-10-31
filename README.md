@@ -24,10 +24,10 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<p align="justify">HTML5 e CSS3 foram usados para criar estrutura e visual do game.</p>
+<p align="justify">HTML5 and CSS3 were used to create the game's structure and appearance.</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<p align="justify">JavaScript foi utilizado para criar o modelo do jogo.</p>
+<p align="justify">JavaScript was used to create the game logic.</p>
 
 <h2 id="Toplay">💻 To play</h2>
 <ol>
